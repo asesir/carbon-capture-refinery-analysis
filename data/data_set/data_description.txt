@@ -1,1 +1,22 @@
+# Data Description: Supplementary Datasets
+
+This folder contains the five primary datasets used to support key quantitative analyses in the manuscript:
+
+**"Analysis of Carbon Capture Strategies for Refineries Considering Extraordinary Future Economic and Policy Uncertainties"**
+
+Each dataset corresponds to a supplementary dataset (S1–S5) referenced in the manuscript and SI.
+
+---
+
+## Dataset Overview
+
+| Filename                                             | Dataset ID | Description                                                                                                     |
+|------------------------------------------------------|------------|-----------------------------------------------------------------------------------------------------------------|
+| `SI_DS1_AvoidanceCostCurve.xlsx`                    | Dataset S1 | CO₂ avoidance costs of carbon capture applied to selected process units across transportation fuel and crude quality scenarios |
+| `SI_DS2_AvoidanceCostCurve_CombinedUnits.xlsx`      | Dataset S2 | CO₂ avoidance costs for combined-stack carbon capture systems in selected deep conversion refineries           |
+| `SI_DS3_RO_ExpectedPV.xlsx`                         | Dataset S3 | Monte Carlo simulation results for expected present value (EPV) of selected refineries under different demand scenarios |
+| `SI_DS4_CrudeProxies.xlsx`                          | Dataset S4 | Blended crude property proxies in PRELIM-compatible format under different crude quality scenarios              |
+| `SI_DS5_RO_DecisionCount.xlsx`                      | Dataset S5 | Monte Carlo-derived probabilities of strategic decisions by individual refineries across demand scenarios       |
+
+---
 
