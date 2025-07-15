@@ -9,14 +9,11 @@ library(wesanderson)
 library(scales)
 library(ggrepel)
 
-df<- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/Main Paper/DemandvsEmissions.csv")
-# df<- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/DemandvsEmissions.csv")
-# df<- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/DemandvsEmissions.csv")
+df<- read.csv("C:/Users/file_location/Figure1_DemandvsEmissions.csv")
 
 # # Specify the directory path where you want to save the figure
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
+save_directory <- "C:/Users/file_location/"
+
 
 
 # 
@@ -133,17 +130,16 @@ df$abs_delta_percent <- (df$No.Carbon.Capture-df$Max.Carbon.Capture)/df$No.Carbo
 
 #####################SI figure for light/sweet crude#######################
 
-df<- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/Main Paper/DemandvsEmissions.csv")
-# df<- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/DemandvsEmissions.csv")
+df<- read.csv("C:/Users/file_location/Figure S16_DemandvsEmissions.csv")
+
 
 # # Specify the directory path where you want to save the figure
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
 
 
 # 
 # # Create the full file path
-file_path <- file.path(save_directory, "FigureS25.png")
+file_path <- file.path(save_directory, "FigureS16.png")
 
 df_long <- df%>% 
   pivot_longer(cols = -c("Demand..MMbbl.year", "Crude.Type"),
