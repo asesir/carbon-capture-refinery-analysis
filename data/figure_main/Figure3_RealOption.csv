@@ -1,0 +1,575 @@
+"","Config","Scenario","EmissionsThreshold","OilPrices","Risk.Free.Interest.Rate","RefOpEx","Carbon.Capture.Operating.Cost.Variation","Carbon.Price.Variation","Carbon.Capture.CapEx","Year","RO_Options","Count","Total_Count","Percentage"
+"1","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"2","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"3","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"4","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",4000,4000,1
+"5","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",5000,5000,1
+"6","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",6000,6000,1
+"7","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",7000,7000,1
+"8","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",8000,8000,1
+"9","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",9000,9000,1
+"10","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",7860,10000,0.786
+"11","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",3,10000,3e-04
+"12","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Shut Down Refinery",2137,10000,0.2137
+"13","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",19,11000,0.00172727272727273
+"14","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",4,11000,0.000363636363636364
+"15","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Shut Down Refinery",10977,11000,0.997909090909091
+"16","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1,12000,8.33333333333333e-05
+"17","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",22,12000,0.00183333333333333
+"18","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Shut Down Refinery",11977,12000,0.998083333333333
+"19","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",23,13000,0.00176923076923077
+"20","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Shut Down Refinery",12977,13000,0.998230769230769
+"21","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",23,14000,0.00164285714285714
+"22","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Shut Down Refinery",13977,14000,0.998357142857143
+"23","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",23,15000,0.00153333333333333
+"24","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",14977,15000,0.998466666666667
+"25","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",23,16000,0.0014375
+"26","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",15977,16000,0.9985625
+"27","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",23,17000,0.00135294117647059
+"28","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",16977,17000,0.998647058823529
+"29","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",22,18000,0.00122222222222222
+"30","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",17978,18000,0.998777777777778
+"31","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",22,19000,0.00115789473684211
+"32","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",18978,19000,0.998842105263158
+"33","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",22,20000,0.0011
+"34","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",19978,20000,0.9989
+"35","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",22,21000,0.00104761904761905
+"36","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",20978,21000,0.998952380952381
+"37","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",22,22000,0.001
+"38","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",21978,22000,0.999
+"39","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",22,23000,0.000956521739130435
+"40","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",22978,23000,0.99904347826087
+"41","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",21,24000,0.000875
+"42","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",23979,24000,0.999125
+"43","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",21,25000,0.00084
+"44","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",24979,25000,0.99916
+"45","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",19,26000,0.000730769230769231
+"46","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",25981,26000,0.999269230769231
+"47","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",19,27000,0.000703703703703704
+"48","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",26981,27000,0.999296296296296
+"49","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",16,28000,0.000571428571428571
+"50","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",27984,28000,0.999428571428571
+"51","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",14,29000,0.000482758620689655
+"52","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",28986,29000,0.99951724137931
+"53","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",30000,30000,1
+"54","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",31000,31000,1
+"55","Hydroskimming","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"56","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"57","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"58","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"59","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2934,4000,0.7335
+"60","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",1066,4000,0.2665
+"61","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2984,5000,0.5968
+"62","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",2016,5000,0.4032
+"63","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",3034,6000,0.505666666666667
+"64","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",2966,6000,0.494333333333333
+"65","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",3084,7000,0.440571428571429
+"66","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",3916,7000,0.559428571428571
+"67","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",3134,8000,0.39175
+"68","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",4866,8000,0.60825
+"69","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",3184,9000,0.353777777777778
+"70","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",5816,9000,0.646222222222222
+"71","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",3234,10000,0.3234
+"72","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",6766,10000,0.6766
+"73","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",3273,11000,0.297545454545455
+"74","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",7718,11000,0.701636363636364
+"75","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Shut Down Refinery",9,11000,0.000818181818181818
+"76","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1351,12000,0.112583333333333
+"77","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",4434,12000,0.3695
+"78","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Shut Down Refinery",6215,12000,0.517916666666667
+"79","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",4,13000,0.000307692307692308
+"80","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",56,13000,0.00430769230769231
+"81","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Shut Down Refinery",12940,13000,0.995384615384615
+"82","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",60,14000,0.00428571428571429
+"83","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Shut Down Refinery",13940,14000,0.995714285714286
+"84","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",53,15000,0.00353333333333333
+"85","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",14947,15000,0.996466666666667
+"86","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",53,16000,0.0033125
+"87","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",15947,16000,0.9966875
+"88","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",53,17000,0.00311764705882353
+"89","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",16947,17000,0.996882352941176
+"90","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",53,18000,0.00294444444444444
+"91","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",17947,18000,0.997055555555556
+"92","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",53,19000,0.00278947368421053
+"93","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",18947,19000,0.997210526315789
+"94","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",53,20000,0.00265
+"95","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",19947,20000,0.99735
+"96","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",53,21000,0.00252380952380952
+"97","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",20947,21000,0.997476190476191
+"98","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",53,22000,0.00240909090909091
+"99","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",21947,22000,0.997590909090909
+"100","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",53,23000,0.00230434782608696
+"101","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",22947,23000,0.997695652173913
+"102","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",52,24000,0.00216666666666667
+"103","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",23948,24000,0.997833333333333
+"104","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",51,25000,0.00204
+"105","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",24949,25000,0.99796
+"106","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",46,26000,0.00176923076923077
+"107","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",25954,26000,0.998230769230769
+"108","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",42,27000,0.00155555555555556
+"109","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",26958,27000,0.998444444444444
+"110","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",37,28000,0.00132142857142857
+"111","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",27963,28000,0.998678571428571
+"112","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",18,29000,0.000620689655172414
+"113","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",28982,29000,0.999379310344828
+"114","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",30000,30000,1
+"115","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",31000,31000,1
+"116","Hydroskimming","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"117","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"118","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"119","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"120","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",3238,4000,0.8095
+"121","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",762,4000,0.1905
+"122","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",3543,5000,0.7086
+"123","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",1457,5000,0.2914
+"124","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",3848,6000,0.641333333333333
+"125","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",2152,6000,0.358666666666667
+"126","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",4153,7000,0.593285714285714
+"127","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",2847,7000,0.406714285714286
+"128","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",4458,8000,0.55725
+"129","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",3542,8000,0.44275
+"130","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",4763,9000,0.529222222222222
+"131","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",4237,9000,0.470777777777778
+"132","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",5068,10000,0.5068
+"133","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",4932,10000,0.4932
+"134","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",5372,11000,0.488363636363636
+"135","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",5628,11000,0.511636363636364
+"136","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",5658,12000,0.4715
+"137","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",6342,12000,0.5285
+"138","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",77,13000,0.00592307692307692
+"139","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",321,13000,0.0246923076923077
+"140","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Shut Down Refinery",12602,13000,0.969384615384615
+"141","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",3,14000,0.000214285714285714
+"142","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",81,14000,0.00578571428571429
+"143","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Shut Down Refinery",13916,14000,0.994
+"144","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",3,15000,2e-04
+"145","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",71,15000,0.00473333333333333
+"146","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",14926,15000,0.995066666666667
+"147","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Continue Operation",3,16000,0.0001875
+"148","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",71,16000,0.0044375
+"149","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",15926,16000,0.995375
+"150","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",74,17000,0.00435294117647059
+"151","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",16926,17000,0.995647058823529
+"152","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",70,18000,0.00388888888888889
+"153","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",17930,18000,0.996111111111111
+"154","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",70,19000,0.00368421052631579
+"155","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",18930,19000,0.996315789473684
+"156","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",70,20000,0.0035
+"157","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",19930,20000,0.9965
+"158","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",65,21000,0.0030952380952381
+"159","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",20935,21000,0.996904761904762
+"160","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",59,22000,0.00268181818181818
+"161","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",21941,22000,0.997318181818182
+"162","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",48,23000,0.00208695652173913
+"163","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",22952,23000,0.997913043478261
+"164","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",32,24000,0.00133333333333333
+"165","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",23968,24000,0.998666666666667
+"166","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",27,25000,0.00108
+"167","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",24973,25000,0.99892
+"168","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",12,26000,0.000461538461538462
+"169","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",25988,26000,0.999538461538461
+"170","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",10,27000,0.00037037037037037
+"171","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",26990,27000,0.99962962962963
+"172","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",28000,28000,1
+"173","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",29000,29000,1
+"174","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",30000,30000,1
+"175","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",31000,31000,1
+"176","Hydroskimming","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"177","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"178","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"179","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"180","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2000,4000,0.5
+"181","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",2000,4000,0.5
+"182","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2000,5000,0.4
+"183","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",3000,5000,0.6
+"184","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2000,6000,0.333333333333333
+"185","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",4000,6000,0.666666666666667
+"186","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2000,7000,0.285714285714286
+"187","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",5000,7000,0.714285714285714
+"188","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2000,8000,0.25
+"189","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",6000,8000,0.75
+"190","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2000,9000,0.222222222222222
+"191","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",7000,9000,0.777777777777778
+"192","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",1996,10000,0.1996
+"193","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",8004,10000,0.8004
+"194","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",1994,11000,0.181272727272727
+"195","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9006,11000,0.818727272727273
+"196","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1988,12000,0.165666666666667
+"197","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",10012,12000,0.834333333333333
+"198","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",1953,13000,0.150230769230769
+"199","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",11047,13000,0.849769230769231
+"200","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",1524,14000,0.108857142857143
+"201","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",12476,14000,0.891142857142857
+"202","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",1442,15000,0.0961333333333333
+"203","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",12610,15000,0.840666666666667
+"204","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",948,15000,0.0632
+"205","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Continue Operation",822,16000,0.051375
+"206","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",14085,16000,0.8803125
+"207","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",1093,16000,0.0683125
+"208","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Continue Operation",360,17000,0.0211764705882353
+"209","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",10540,17000,0.62
+"210","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",6100,17000,0.358823529411765
+"211","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Continue Operation",42,18000,0.00233333333333333
+"212","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",6036,18000,0.335333333333333
+"213","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",11922,18000,0.662333333333333
+"214","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Continue Operation",6,19000,0.000315789473684211
+"215","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",6073,19000,0.319631578947368
+"216","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",12921,19000,0.680052631578947
+"217","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Continue Operation",2,20000,1e-04
+"218","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",6050,20000,0.3025
+"219","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",13948,20000,0.6974
+"220","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Continue Operation",2,21000,9.52380952380952e-05
+"221","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",6026,21000,0.286952380952381
+"222","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",14972,21000,0.712952380952381
+"223","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",5946,22000,0.270272727272727
+"224","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",16054,22000,0.729727272727273
+"225","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",5799,23000,0.252130434782609
+"226","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",17201,23000,0.747869565217391
+"227","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",5361,24000,0.223375
+"228","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",18639,24000,0.776625
+"229","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",5047,25000,0.20188
+"230","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",19953,25000,0.79812
+"231","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",4454,26000,0.171307692307692
+"232","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",21546,26000,0.828692307692308
+"233","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",3828,27000,0.141777777777778
+"234","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",23172,27000,0.858222222222222
+"235","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",2911,28000,0.103964285714286
+"236","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",25089,28000,0.896035714285714
+"237","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",1578,29000,0.0544137931034483
+"238","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",27422,29000,0.945586206896552
+"239","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",384,30000,0.0128
+"240","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",29616,30000,0.9872
+"241","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Deploy Carbon Capture",16,31000,0.000516129032258065
+"242","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",30984,31000,0.999483870967742
+"243","Medium Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"244","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"245","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"246","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"247","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2001,4000,0.50025
+"248","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",1999,4000,0.49975
+"249","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2001,5000,0.4002
+"250","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",2999,5000,0.5998
+"251","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2001,6000,0.3335
+"252","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",3999,6000,0.6665
+"253","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2001,7000,0.285857142857143
+"254","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",4999,7000,0.714142857142857
+"255","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2001,8000,0.250125
+"256","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",5999,8000,0.749875
+"257","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2001,9000,0.222333333333333
+"258","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",6999,9000,0.777666666666667
+"259","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",1996,10000,0.1996
+"260","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",8004,10000,0.8004
+"261","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",1994,11000,0.181272727272727
+"262","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9006,11000,0.818727272727273
+"263","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1988,12000,0.165666666666667
+"264","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",10012,12000,0.834333333333333
+"265","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",1978,13000,0.152153846153846
+"266","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",11022,13000,0.847846153846154
+"267","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",1966,14000,0.140428571428571
+"268","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",12034,14000,0.859571428571429
+"269","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",1952,15000,0.130133333333333
+"270","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",13048,15000,0.869866666666667
+"271","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Continue Operation",1903,16000,0.1189375
+"272","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",14097,16000,0.8810625
+"273","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Continue Operation",1751,17000,0.103
+"274","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",15249,17000,0.897
+"275","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Continue Operation",1744,18000,0.0968888888888889
+"276","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",16256,18000,0.903111111111111
+"277","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Continue Operation",1603,19000,0.0843684210526316
+"278","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",17397,19000,0.915631578947368
+"279","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Continue Operation",1447,20000,0.07235
+"280","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",18546,20000,0.9273
+"281","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",7,20000,0.00035
+"282","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Continue Operation",1218,21000,0.058
+"283","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",19766,21000,0.941238095238095
+"284","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",16,21000,0.000761904761904762
+"285","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Continue Operation",1015,22000,0.0461363636363636
+"286","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",20958,22000,0.952636363636364
+"287","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",27,22000,0.00122727272727273
+"288","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Continue Operation",670,23000,0.0291304347826087
+"289","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",22255,23000,0.967608695652174
+"290","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",75,23000,0.00326086956521739
+"291","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Continue Operation",585,24000,0.024375
+"292","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",23115,24000,0.963125
+"293","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",300,24000,0.0125
+"294","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Continue Operation",440,25000,0.0176
+"295","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",24145,25000,0.9658
+"296","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",415,25000,0.0166
+"297","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Continue Operation",360,26000,0.0138461538461538
+"298","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",24823,26000,0.954730769230769
+"299","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",817,26000,0.0314230769230769
+"300","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Continue Operation",308,27000,0.0114074074074074
+"301","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",25607,27000,0.948407407407407
+"302","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",1085,27000,0.0401851851851852
+"303","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Continue Operation",250,28000,0.00892857142857143
+"304","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",26233,28000,0.936892857142857
+"305","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",1517,28000,0.0541785714285714
+"306","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Continue Operation",204,29000,0.00703448275862069
+"307","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",26878,29000,0.926827586206897
+"308","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",1918,29000,0.0661379310344828
+"309","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Continue Operation",193,30000,0.00643333333333333
+"310","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",27429,30000,0.9143
+"311","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",2378,30000,0.0792666666666667
+"312","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Continue Operation",193,31000,0.0062258064516129
+"313","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Deploy Carbon Capture",28188,31000,0.909290322580645
+"314","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",2619,31000,0.0844838709677419
+"315","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Continue Operation",193,32000,0.00603125
+"316","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Deploy Carbon Capture",22719,32000,0.70996875
+"317","Medium Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",9088,32000,0.284
+"318","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"319","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"320","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"321","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2000,4000,0.5
+"322","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",2000,4000,0.5
+"323","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2000,5000,0.4
+"324","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",3000,5000,0.6
+"325","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2000,6000,0.333333333333333
+"326","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",4000,6000,0.666666666666667
+"327","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2000,7000,0.285714285714286
+"328","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",5000,7000,0.714285714285714
+"329","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2000,8000,0.25
+"330","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",6000,8000,0.75
+"331","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2000,9000,0.222222222222222
+"332","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",7000,9000,0.777777777777778
+"333","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",1998,10000,0.1998
+"334","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",8002,10000,0.8002
+"335","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",1998,11000,0.181636363636364
+"336","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9002,11000,0.818363636363636
+"337","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1998,12000,0.1665
+"338","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",10002,12000,0.8335
+"339","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",1997,13000,0.153615384615385
+"340","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",11003,13000,0.846384615384615
+"341","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",1997,14000,0.142642857142857
+"342","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",12003,14000,0.857357142857143
+"343","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",1995,15000,0.133
+"344","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",13005,15000,0.867
+"345","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Continue Operation",1991,16000,0.1244375
+"346","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",14009,16000,0.8755625
+"347","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Continue Operation",1954,17000,0.114941176470588
+"348","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",15046,17000,0.885058823529412
+"349","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Continue Operation",1947,18000,0.108166666666667
+"350","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",16053,18000,0.891833333333333
+"351","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Continue Operation",1863,19000,0.0980526315789474
+"352","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",17137,19000,0.901947368421053
+"353","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Continue Operation",1667,20000,0.08335
+"354","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",18333,20000,0.91665
+"355","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Continue Operation",1332,21000,0.0634285714285714
+"356","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",19650,21000,0.935714285714286
+"357","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",18,21000,0.000857142857142857
+"358","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Continue Operation",992,22000,0.0450909090909091
+"359","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",20908,22000,0.950363636363636
+"360","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",100,22000,0.00454545454545455
+"361","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Continue Operation",452,23000,0.0196521739130435
+"362","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",22194,23000,0.96495652173913
+"363","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",354,23000,0.0153913043478261
+"364","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Continue Operation",288,24000,0.012
+"365","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",20003,24000,0.833458333333333
+"366","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",3709,24000,0.154541666666667
+"367","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Continue Operation",108,25000,0.00432
+"368","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",18821,25000,0.75284
+"369","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",6071,25000,0.24284
+"370","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Continue Operation",60,26000,0.00230769230769231
+"371","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",14777,26000,0.568346153846154
+"372","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",11163,26000,0.429346153846154
+"373","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Continue Operation",46,27000,0.0017037037037037
+"374","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",13586,27000,0.503185185185185
+"375","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",13368,27000,0.495111111111111
+"376","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Continue Operation",28,28000,0.001
+"377","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",12747,28000,0.45525
+"378","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",15225,28000,0.54375
+"379","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",11916,29000,0.410896551724138
+"380","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",17084,29000,0.589103448275862
+"381","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",9516,30000,0.3172
+"382","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",20484,30000,0.6828
+"383","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Deploy Carbon Capture",4161,31000,0.134225806451613
+"384","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",26839,31000,0.865774193548387
+"385","Medium Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"386","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"387","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"388","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"389","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2016,4000,0.504
+"390","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",1984,4000,0.496
+"391","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2016,5000,0.4032
+"392","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",2984,5000,0.5968
+"393","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2016,6000,0.336
+"394","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",3984,6000,0.664
+"395","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2016,7000,0.288
+"396","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",4984,7000,0.712
+"397","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2016,8000,0.252
+"398","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",5984,8000,0.748
+"399","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2016,9000,0.224
+"400","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",6984,9000,0.776
+"401","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",2016,10000,0.2016
+"402","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",7984,10000,0.7984
+"403","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",1994,11000,0.181272727272727
+"404","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9006,11000,0.818727272727273
+"405","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1610,12000,0.134166666666667
+"406","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",9899,12000,0.824916666666667
+"407","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Shut Down Refinery",491,12000,0.0409166666666667
+"408","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",40,13000,0.00307692307692308
+"409","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",686,13000,0.0527692307692308
+"410","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Shut Down Refinery",12274,13000,0.944153846153846
+"411","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",699,14000,0.0499285714285714
+"412","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Shut Down Refinery",13301,14000,0.950071428571429
+"413","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",585,15000,0.039
+"414","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",14415,15000,0.961
+"415","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",585,16000,0.0365625
+"416","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",15415,16000,0.9634375
+"417","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",580,17000,0.0341176470588235
+"418","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",16420,17000,0.965882352941177
+"419","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",570,18000,0.0316666666666667
+"420","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",17430,18000,0.968333333333333
+"421","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",570,19000,0.03
+"422","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",18430,19000,0.97
+"423","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",570,20000,0.0285
+"424","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",19430,20000,0.9715
+"425","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",570,21000,0.0271428571428571
+"426","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",20430,21000,0.972857142857143
+"427","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",570,22000,0.0259090909090909
+"428","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",21430,22000,0.974090909090909
+"429","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",566,23000,0.0246086956521739
+"430","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",22434,23000,0.975391304347826
+"431","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",566,24000,0.0235833333333333
+"432","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",23434,24000,0.976416666666667
+"433","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",543,25000,0.02172
+"434","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",24457,25000,0.97828
+"435","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",511,26000,0.0196538461538462
+"436","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",25489,26000,0.980346153846154
+"437","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",455,27000,0.0168518518518519
+"438","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",26545,27000,0.983148148148148
+"439","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",348,28000,0.0124285714285714
+"440","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",27652,28000,0.987571428571429
+"441","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",203,29000,0.007
+"442","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",28797,29000,0.993
+"443","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",56,30000,0.00186666666666667
+"444","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",29944,30000,0.998133333333333
+"445","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",31000,31000,1
+"446","Deep Conversion","Low Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"447","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"448","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"449","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"450","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2000,4000,0.5
+"451","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",2000,4000,0.5
+"452","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2000,5000,0.4
+"453","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",3000,5000,0.6
+"454","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2000,6000,0.333333333333333
+"455","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",4000,6000,0.666666666666667
+"456","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2000,7000,0.285714285714286
+"457","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",5000,7000,0.714285714285714
+"458","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2000,8000,0.25
+"459","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",6000,8000,0.75
+"460","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2000,9000,0.222222222222222
+"461","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",7000,9000,0.777777777777778
+"462","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",2000,10000,0.2
+"463","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",8000,10000,0.8
+"464","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",2000,11000,0.181818181818182
+"465","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9000,11000,0.818181818181818
+"466","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",2000,12000,0.166666666666667
+"467","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",10000,12000,0.833333333333333
+"468","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",2000,13000,0.153846153846154
+"469","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",11000,13000,0.846153846153846
+"470","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",1949,14000,0.139214285714286
+"471","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",12051,14000,0.860785714285714
+"472","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",1921,15000,0.128066666666667
+"473","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",13073,15000,0.871533333333333
+"474","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",6,15000,4e-04
+"475","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Continue Operation",1627,16000,0.1016875
+"476","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",14366,16000,0.897875
+"477","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",7,16000,0.0004375
+"478","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Continue Operation",573,17000,0.0337058823529412
+"479","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",15900,17000,0.935294117647059
+"480","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",527,17000,0.031
+"481","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Continue Operation",359,18000,0.0199444444444444
+"482","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",6610,18000,0.367222222222222
+"483","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",11031,18000,0.612833333333333
+"484","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Continue Operation",106,19000,0.00557894736842105
+"485","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",6909,19000,0.363631578947368
+"486","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",11985,19000,0.630789473684211
+"487","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Continue Operation",2,20000,1e-04
+"488","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",6150,20000,0.3075
+"489","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",13848,20000,0.6924
+"490","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",6079,21000,0.28947619047619
+"491","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",14921,21000,0.71052380952381
+"492","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",5893,22000,0.267863636363636
+"493","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",16107,22000,0.732136363636364
+"494","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",5734,23000,0.249304347826087
+"495","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",17266,23000,0.750695652173913
+"496","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",5156,24000,0.214833333333333
+"497","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",18844,24000,0.785166666666667
+"498","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",4899,25000,0.19596
+"499","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",20101,25000,0.80404
+"500","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",4227,26000,0.162576923076923
+"501","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",21773,26000,0.837423076923077
+"502","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",3514,27000,0.130148148148148
+"503","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",23486,27000,0.869851851851852
+"504","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",2930,28000,0.104642857142857
+"505","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",25070,28000,0.895357142857143
+"506","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",1853,29000,0.0638965517241379
+"507","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",27147,29000,0.936103448275862
+"508","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",319,30000,0.0106333333333333
+"509","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",29681,30000,0.989366666666667
+"510","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",31000,31000,1
+"511","Deep Conversion","High Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
+"512","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2019","Continue Operation",1000,1000,1
+"513","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2020","Continue Operation",2000,2000,1
+"514","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2021","Continue Operation",3000,3000,1
+"515","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Continue Operation",2002,4000,0.5005
+"516","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2022","Deploy Carbon Capture",1998,4000,0.4995
+"517","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Continue Operation",2002,5000,0.4004
+"518","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2023","Deploy Carbon Capture",2998,5000,0.5996
+"519","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Continue Operation",2002,6000,0.333666666666667
+"520","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2024","Deploy Carbon Capture",3998,6000,0.666333333333333
+"521","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Continue Operation",2002,7000,0.286
+"522","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2025","Deploy Carbon Capture",4998,7000,0.714
+"523","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Continue Operation",2002,8000,0.25025
+"524","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2026","Deploy Carbon Capture",5998,8000,0.74975
+"525","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Continue Operation",2002,9000,0.222444444444444
+"526","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2027","Deploy Carbon Capture",6998,9000,0.777555555555556
+"527","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Continue Operation",2002,10000,0.2002
+"528","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2028","Deploy Carbon Capture",7998,10000,0.7998
+"529","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Continue Operation",1999,11000,0.181727272727273
+"530","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2029","Deploy Carbon Capture",9001,11000,0.818272727272727
+"531","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Continue Operation",1879,12000,0.156583333333333
+"532","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2030","Deploy Carbon Capture",10121,12000,0.843416666666667
+"533","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Continue Operation",1295,13000,0.0996153846153846
+"534","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Deploy Carbon Capture",8933,13000,0.687153846153846
+"535","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2031","Shut Down Refinery",2772,13000,0.213230769230769
+"536","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Continue Operation",51,14000,0.00364285714285714
+"537","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Deploy Carbon Capture",1536,14000,0.109714285714286
+"538","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2032","Shut Down Refinery",12413,14000,0.886642857142857
+"539","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Continue Operation",2,15000,0.000133333333333333
+"540","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Deploy Carbon Capture",1369,15000,0.0912666666666667
+"541","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2033","Shut Down Refinery",13629,15000,0.9086
+"542","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Deploy Carbon Capture",1371,16000,0.0856875
+"543","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2034","Shut Down Refinery",14629,16000,0.9143125
+"544","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Deploy Carbon Capture",1361,17000,0.0800588235294118
+"545","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2035","Shut Down Refinery",15639,17000,0.919941176470588
+"546","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Deploy Carbon Capture",1350,18000,0.075
+"547","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2036","Shut Down Refinery",16650,18000,0.925
+"548","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Deploy Carbon Capture",1350,19000,0.0710526315789474
+"549","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2037","Shut Down Refinery",17650,19000,0.928947368421053
+"550","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Deploy Carbon Capture",1350,20000,0.0675
+"551","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2038","Shut Down Refinery",18650,20000,0.9325
+"552","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Deploy Carbon Capture",1350,21000,0.0642857142857143
+"553","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2039","Shut Down Refinery",19650,21000,0.935714285714286
+"554","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Deploy Carbon Capture",1350,22000,0.0613636363636364
+"555","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2040","Shut Down Refinery",20650,22000,0.938636363636364
+"556","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Deploy Carbon Capture",1350,23000,0.058695652173913
+"557","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2041","Shut Down Refinery",21650,23000,0.941304347826087
+"558","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Deploy Carbon Capture",1350,24000,0.05625
+"559","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2042","Shut Down Refinery",22650,24000,0.94375
+"560","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Deploy Carbon Capture",1350,25000,0.054
+"561","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2043","Shut Down Refinery",23650,25000,0.946
+"562","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Deploy Carbon Capture",1349,26000,0.0518846153846154
+"563","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2044","Shut Down Refinery",24651,26000,0.948115384615385
+"564","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Deploy Carbon Capture",1343,27000,0.0497407407407407
+"565","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2045","Shut Down Refinery",25657,27000,0.950259259259259
+"566","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Deploy Carbon Capture",1318,28000,0.0470714285714286
+"567","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2046","Shut Down Refinery",26682,28000,0.952928571428571
+"568","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Deploy Carbon Capture",1227,29000,0.0423103448275862
+"569","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2047","Shut Down Refinery",27773,29000,0.957689655172414
+"570","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Deploy Carbon Capture",763,30000,0.0254333333333333
+"571","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2048","Shut Down Refinery",29237,30000,0.974566666666667
+"572","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Deploy Carbon Capture",147,31000,0.00474193548387097
+"573","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2049","Shut Down Refinery",30853,31000,0.995258064516129
+"574","Deep Conversion","Medium Fuel Demand","Carbon Tax","RefOPS","RefRFRate","RefRefOpEx","RefCCOpEx","RefCPS",NA,"2050","Shut Down Refinery",32000,32000,1
