@@ -1,0 +1,30 @@
+# Code Description
+
+This folder contains all code used to support the analysis presented in the paper:
+
+**"Analysis of Carbon Capture Strategies for Refineries Considering Extraordinary Future Economic and Policy Uncertainties"**
+
+The scripts in this folder were used to process input data, run simulations (e.g., real options modeling, carbon capture cost estimation), and generate the figures and tables included in both the main manuscript and Supplementary Information.
+
+---
+
+## Folder Contents
+
+| File/Folder Name                            | Description                                                                                         | Model Used                                |
+|--------------------------------------------|-----------------------------------------------------------------------------------------------------|--------------------------------------------|
+| `prelim_run_ExternalControlVariable.vb`     | Uses generated control variables to produce PRELIM results                                           | `PRELIM_v1.6 v9 CC_Economic.xlsm`          |
+| `prelim_run_GenerateExternalControlVariable.py` | Generates external control variables for PRELIM runs                                             | `PRELIM_v1.6 v9 CC_Economic.xlsm`          |
+| `utilization_analysis_CrudeInputProjection.m` | Optimization of crude input configurations for U.S. refineries under different fuel demand scenarios | `Refinery Capacity Projection Analysis.xlsm` |
+| `ro_montecarlo.vb`                          | Generates Monte Carlo simulation results for real options analysis                                   | `RO_Calculation.xlsm`                      |
+| `ro_sensitivity.vb`                         | Generates sensitivity analysis results for real options modeling                                     | `RO_Calculation.xlsm`                      |
+| `figure_main/`                              | Contains code to generate all figures included in the main manuscript                                | —                                          |
+| `figure_si/`                                | Contains code to generate all figures included in the Supplementary Information                      | —                                          |
+
+---
+
+## Notes
+
+- All data inputs are located in the `/data/` folder.  
+- All Excel-based models used for analysis are stored in the `/model/` folder.  
+- Code is licensed under the MIT License (see root `LICENSE` file).
+
