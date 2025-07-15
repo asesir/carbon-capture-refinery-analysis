@@ -13,7 +13,7 @@ library(cowplot)
 library(ggridges)
 
 #####################Loading DataFrame################
-df <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S13_CarbonPriceTrajectory.csv")
+df <- read.csv("C:/Users/file_locatioin/Figure S13_CarbonPriceTrajectory.csv")
 
 df_long <- df %>% 
   pivot_longer(
@@ -33,14 +33,14 @@ summarized_table <- df_long %>%
 # Display the resulting summarized table
 print(summarized_table)
 
-write.csv(summarized_table, file = 'C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/FigureS5_CarbonPrice_stats.csv', row.names = FALSE)
+write.csv(summarized_table, file = 'C:/Users/file_locatioin/FigureS5_CarbonPrice_stats.csv', row.names = FALSE)
 
 #########################Plot############################
 library(tidyverse)
 library(wesanderson) # Ensure this package is installed for custom color palettes
 
 # Load data
-carbon_data <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S13_CarbonPrice_stats.csv")
+carbon_data <- read.csv("C:/Users/file_locatioin/Figure S13_CarbonPrice_stats.csv")
 
 # Prepare the data
 carbon_data <- carbon_data %>%
@@ -105,8 +105,7 @@ plot_carbonprice <- ggplot(carbon_data) +
 print(plot_carbonprice)
 
 
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_locatioin/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS13.png")
 
