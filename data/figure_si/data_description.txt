@@ -1,1 +1,40 @@
+# Data Description: Supplementary Information (SI) Figures
 
+This folder contains the processed data used to generate all figures included in the Supplementary Information (SI) of the manuscript:
+
+**"Analysis of Carbon Capture Strategies for Refineries Considering Extraordinary Future Economic and Policy Uncertainties"**
+
+---
+
+## File Overview
+
+| Filename                                | Corresponding Figure | Description                                                                 |
+|----------------------------------------|----------------------|-----------------------------------------------------------------------------|
+| `Figure S1_TargetSlate.csv`             | Figure S1            | Projected U.S. refinery product slates under various fuel demand scenarios |
+| `Figure S2_ProjCapacity.csv`        | Figure S2            | Estimated future changes in light/sweet and heavy/sour crude inputs        |
+| `Figure S3_GHGvsNetZeroTarget.csv`        | Figure S3            | Annual refinery GHG emissions by decarbonization goal                      |
+| `Figure S4_Emissions_Transportation.csv`       | Figure S4            | GHG from direct combustion by demand scenario                              |
+| `Figure S5_TransportationEmissionsBreakdown.csv`       | Figure S5            | Detailed combustion emissions by fuel type and scenario                    |
+| `Figure S6_RO_decisioncount_Sensitivity.csv`    | Figure S6            | Sensitivity analysis for real options modeling                             |
+| `Figure S8_CrudeQuality_ETS.csv`          | Figure S8            | ETS-based projections of future crude qualities                            |
+| `Figure S8_CrudeQuality_Hist.csv`   | Figure S8            | Historical trend of crude qualities                            |
+| `Figure S10_TransportationFuelDemand.csv`    | Figure S10           | Historical and projected U.S. transportation fuel demand (2019–2050)       |
+| `Figure S11_RefineryInputOutput_LinearRegression.csv`         | Figure S11           | Historical correlations between refinery inputs and outputs                |
+| `Figure S13_CarbonPrice_stats.csv`          | Figure S13           | Statistics of simulated carbon price                               |
+| `Figure S13_CarbonPriceTrajectory.csv`          | Figure S13           | Simulated carbon price trajectories (GBM process)                          |
+| `Figure S13_HistoricaCarbonPrices.csv`        | Figure S3            | Historical trend of carbon prices                                |
+| `Figure S14_RO_SampledLattice_CarbonTrajectorySample.csv`            | Figure S14           | Selected simulated carbon price path                         |
+| `Figure S14_RO_SampleLattice.csv`            | Figure S14           | Binomial decision tree based on carbon price paths                         |
+| `Figure S15_USGHGMap.xlsx`      | Figure S15           | Regional energy consumption and GHG profiles for U.S. refineries (2019)    |
+| `Figure S16_DemandvsEmissions.csv`       | Figure S16           | Emissions under different product demand assumptions                       |
+| `Figure S17_GHGbyEnergySource.csv` | Figure S17       | Projections of refinery emissions intensity by fuel demand and crude type |
+| `Figure S18_MACC_HS.csv`            | Figure S18           | CO₂ avoidance cost curve for heavy/sour crude streams                      |
+| `Figure S19_MACC_LS.csv`           | Figure S19           | CO₂ avoidance cost curve for light/sweet crude streams                     |
+| `Figure S20_MACC_HS.csv`   | Figure S20           | Distribution of CO₂ avoidance costs (heavy/sour, all configurations)       |
+| `Figure S21_MACC_LS.csv`   | Figure S21           | Distribution of CO₂ avoidance costs (light/sweet, all configurations)      |
+| `Figure S22_RO_EmissionsThreshold.csv`     | Figure S22           | Expected emissions by refinery config and strategy adoption probabilities  |
+| `Figure S23_RO_Expected Throughput.csv`    | Figure S23           | Expected production by refinery config and strategy likelihoods            |
+| `Figure S24_MACC_Sensitivity_Dimensions.csv` | Figure S24       | Impact of absorber/stripper height variation on cost                       |
+| `Figure S25_MACC_smrLocation.csv`     | Figure S25           | Cost distribution of CCS for different SMR streams                         |
+
+---
