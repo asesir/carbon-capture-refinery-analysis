@@ -23,10 +23,10 @@ library(wesanderson)
 ####################Loading Data Frame#########################################
 
 
-df_ys_long_decisioncount <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/Main Paper/Figure3_RealOption.csv")
+df_ys_long_decisioncount <- read.csv("C:/Users/file_location/Figure3_RealOption.csv")
 # Load data
-carbon_data <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S13_CarbonPrice_stats.csv")
-# df_ys_long_decisioncount <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/RO_decisioncount_2019to2050.csv")
+carbon_data <- read.csv("C:/Users/file_location/Figure S13_CarbonPrice_stats.csv")
+
 
 plot_colors<- c(
   
@@ -171,8 +171,8 @@ print(combined_plot_with_labels)
 
 
 # # Specify the directory path where you want to save the figure
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
+
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "Figure_3.png")
 
