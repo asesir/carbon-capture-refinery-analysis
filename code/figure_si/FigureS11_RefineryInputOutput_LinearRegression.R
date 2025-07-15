@@ -4,8 +4,7 @@ library(tidyr)
 library(dplyr)
 library(wesanderson)
 # Read the dataset
-df_io <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S11_RefineryInputOutput_LinearRegression.csv")
-# df_io <- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/RefineryInputOutput_LinearRegression.csv")
+df_io <- read.csv("C:/Users/file_locatioin/Figure S11_RefineryInputOutput_LinearRegression.csv")
 
 # Create a new column for updated PADD labels
 df_io$PADD_label <- paste("PADD", df_io$PADD)
@@ -54,8 +53,8 @@ p <- ggplot(df_io, aes(x = production_var, y = input_var)) +
 print(p)
 
 
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_locatioin/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS11.png")
 
