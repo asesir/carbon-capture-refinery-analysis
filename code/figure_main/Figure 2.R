@@ -6,16 +6,7 @@ library(ggmacc)
 library(cowplot)
 library(RColorBrewer)
 
-
-# df1 <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/PhD Thesis/Results/Results Analysis_3rd Run/RefineryCapacity_NoHistoricalLimit_PADDAvgChangedPercentbyConfig/MACC_2050_HS_R.csv")
-
-
-
-df1 <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/Main Paper/Figure2_AvoidanceCostCurve.csv")
-
-# df1 <- read.csv("D:/PhD/PhD Programe UofC/LCA/PhD Thesis/Results/Results Analysis_3rd Run/RefineryCapacity_NoHistoricalLimit_PADDAvgChangedPercentbyConfig/MACC_2050_HS_R.csv")
-
-
+df1 <- read.csv("C:/Users/file_location/Figure2_AvoidanceCostCurve.csv")
 
 df1$Capture.Scenario <- factor(df1$Capture.Scenario)
 df1$PADD_factor <- factor(df1$PADD)
@@ -26,8 +17,6 @@ df1$Total.Avoided.CO2.kt.y <- df1$Total.Avoided.CO2.kt.y / 1000
 
 
 df1_filtered <- df1 %>% filter(Marginal.Abatement.Cost....t != 0 & Total.Avoided.CO2.kt.y > 0.001)
-
-
 
 
 
@@ -189,9 +178,8 @@ fig2 <- plot_grid(
 print(fig2)
 
 # # Specify the directory path where you want to save the figure
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Figures/"
+
+save_directory <- "C:/Users/file_location/Figures/"
 # # Create the full file path
 file_path <- file.path(save_directory, "Figure_2.png")
 
