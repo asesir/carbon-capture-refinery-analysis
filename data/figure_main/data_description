@@ -1,0 +1,18 @@
+# Data Description: Main Paper Figures
+
+This folder (`data/figure_main/`) contains the processed data used to generate the primary figures in the manuscript:
+
+**"Analysis of Carbon Capture Strategies for Refineries Considering Extraordinary Future Economic and Policy Uncertainties"**
+
+---
+
+## Files
+
+| Filename                        | Description                                                                                                                         |
+|---------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| `Figure1_DemandvsEmissions.csv` | Estimated Annual GHG Emissions from U.S. Refineries at different transportation fuel demand with and without carbon capture         |
+| `Figure2_AvoidanceCostCurve.csv`| CO2 Avoidance Cost Curve of Carbon Capture and Storage in U.S. Refineries under MD50 Scenario with Heavy/Sour Crude Proxies Input   |
+| `Figure3_RealOption.csv`        | Likelihood of Three Choices Using Real Options Analysis for Three Refinery Types under Three Transportation Fuel Demand Scenarios   |
+
+---
+
