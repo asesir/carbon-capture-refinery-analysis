@@ -29,12 +29,12 @@ Sub SwingCutOptimization()
   
  'open new workbook
  
- Workbooks.Open ("C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\Paper 01\Data\Raw Data\swingcut_test.xlsx") ' TO BE EDITED
+ Workbooks.Open ("C:\Users\file_location\external_parameters.xlsx") ' TO BE EDITED
  
  
- Set wb1 = Workbooks("swingcut_test.xlsx")
+ Set wb1 = Workbooks("external_parameters.xlsx")
  
- Set wb2 = Workbooks("PRELIM_v1.6 v9 CC_Economic_2ndDraft.xlsm")
+ Set wb2 = Workbooks("PRELIM_v1.6 v9 CC_Economic.xlsm")
  
  
  wb1.Sheets(Data_Matrix).Range("A1").Value = "Refinery Configuration"

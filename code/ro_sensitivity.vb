@@ -24,10 +24,8 @@ Dim ResultSheet As String
 Dim RO_Sensitivity_Option As String
 
 
-filepath = "C:\Users\Asesi\OneDrive\PhD\PhD Programe UofC\LCA\Paper 01\Data\Raw Data\"
-'filepath = "D:\PhD\PhD Programe UofC\LCA\PhD Thesis\Results\Results Analysis_3rd Run\Real Option\RO_Calc\"
+filepath = "C:\Users\file_location\"
 
-'filepath = "C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\PhD Thesis\Results\Results Analysis_3rd Run\Real Option\RO_Calc\"
 BinomialSheet = "BinomialTree"
 NPVSheet = "NPV BreakDown"
 SimSheet = "RefineryInfo"
@@ -37,7 +35,7 @@ ResultSheet = "ResultCopy"
 RO_Sensitivity_Option = "Sheet1"
 
 
-Set wb1 = Workbooks("RO_Calculation_2019_CarbonTax_modified_v4_DiscountRate_changeCapcity.xlsm") ' Change for different scenarios
+Set wb1 = Workbooks("RO_Calculation.xlsm") ' Change for different scenarios
 
 ' Initializing scenarios
 

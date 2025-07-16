@@ -3,7 +3,7 @@ Excel = actxserver('Excel.Application');
 Excel.Visible = 1; % Make Excel visible.
 
 % Open the workbook
-wb1 = Excel.Workbooks.Open('C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\PhD Thesis\Utilization Analysis\Matlab Simulation\Refinery Capacity Projection Analysis Summary_NoHistoricalLimit.xlsm');
+wb1 = Excel.Workbooks.Open('C:\Users\file_location\Refinery Capacity Projection Analysis.xlsm');
 
 % Access the worksheet
 ResultTab = wb1.Sheets.Item('RefCapacityProj');

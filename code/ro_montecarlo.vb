@@ -23,7 +23,7 @@ Dim RO_Result As String
 Dim RO_Result_OptionValue As String
 Dim RO_Result_Option As String
 
-filepath = "C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\Paper 01\Data\Raw Data"
+filepath = "C:\Users\file_location\"
 
 
 BinomialSheet = "BinomialTree"

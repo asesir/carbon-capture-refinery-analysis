@@ -58,16 +58,16 @@ Sub DataCollection_ExternalControlParameters()
       
     ' open new workbook
      
-     Workbooks.Open ("C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\Paper 01\Data\Raw Data\swingcut_test.xlsx")
+     Workbooks.Open ("C:\Users\file_location\external_parameters.xlsx")
      
-     Workbooks.Open ("C:\Users\fang.li\OneDrive\PhD\PhD Programe UofC\LCA\Paper 01\Data\Raw Data\prelimResult.xlsx")
+     Workbooks.Open ("C:\Users\file_location\prelimResult.xlsx")
      
     ' set workbook names
-     Set wb1 = Workbooks("PRELIM_v1.6 v9 CC_Economic_2ndDraft.xlsm")
+     Set wb1 = Workbooks("PRELIM_v1.6 v9 CC_Economic.xlsm")
      
      Set wb2 = Workbooks("prelimResult.xlsx")
      
-     Set wb3 = Workbooks("swingcut_test.xlsx")
+     Set wb3 = Workbooks("external_parameters.xlsx")
      
      wb2.Sheets(Data_Matrix).Cells.ClearContents
      
