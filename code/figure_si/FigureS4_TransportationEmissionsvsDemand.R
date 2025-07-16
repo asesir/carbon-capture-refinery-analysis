@@ -11,17 +11,19 @@ library(ggrepel)
 library(RColorBrewer)
 library(viridis)
 # read csv file
-# df <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S4_Emissions_Transportation.csv")
-df <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S4_Emissions_Transportation.csv")
+df <- read.csv("C:/Users/file_location/Figure S4_Emissions_Transportation.csv")
 
 df_select <- df %>%
   dplyr::select(Year, 
-                Fuel.Demand.Scenario,  # Check for any typos in column names
+                Fuel.Demand.Scenario,  
                 Total.Emissions,
                 Total.Demands)
+
 df_select <- df_select %>%
+  mutate(Fuel.Demand.Scenario = recode(Fuel.Demand.Scenario,
+                                       `BAS` = "BL")) %>%
   mutate(Fuel.Demand.Scenario = factor(Fuel.Demand.Scenario,
-                                       levels=c("BAS", "LD35", "LD50", "MD35", "MD50", "HD35", "HD50")))
+                                       levels=c("BL", "LD35", "LD50", "MD35", "MD50", "HD35", "HD50")))
 
 x_coord <- 4714
 x_coord_end <- 2103
@@ -93,7 +95,7 @@ p <- p +
 p
 # # Specify the directory path where you want to save the figure
 
-save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS4.png")
 

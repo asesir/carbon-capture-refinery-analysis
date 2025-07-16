@@ -12,12 +12,12 @@ library(ggrepel)
 
 #####################SI figure for light/sweet crude#######################
 
-df<- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S16_DemandvsEmissions.csv")
-# df<- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/DemandvsEmissions.csv")
+df<- read.csv("C:/Users/file_location/Figure S16_DemandvsEmissions.csv")
+
 
 # # Specify the directory path where you want to save the figure
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
+
 
 
 # 

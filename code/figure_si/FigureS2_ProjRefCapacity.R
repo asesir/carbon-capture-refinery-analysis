@@ -8,10 +8,9 @@ library(RColorBrewer)
 library(cowplot)
 
 # # # read csv file
-# df <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/ProjCapacityReport.csv")
-# df <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S2_ProjCapacity.csv")
-df <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S2_ProjCapacity.csv")
-# df <- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/ProjCapacityReport.csv")
+
+df <- read.csv("C:/Users/file_location/Figure S2_ProjCapacity.csv")
+
 
 
 # Change names for Electrification Scenarios column
@@ -108,7 +107,7 @@ combined_plot <- plot_grid(
 print(combined_plot)
 
 
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS2.png")
 

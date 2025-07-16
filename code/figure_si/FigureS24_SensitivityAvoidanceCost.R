@@ -6,7 +6,8 @@ library(ggmacc)
 library(cowplot)
 library(RColorBrewer)
 library(wesanderson) 
-df1 <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S24_MACC_Sensitivity_Dimensions.csv")
+
+df1 <- read.csv("C:/Users/file_location/Figure S24_MACC_Sensitivity_Dimensions.csv")
 
 ##############################First Figure ###################################################################
 df1$Capture.Scenario <- factor(df1$Capture.Scenario)
@@ -94,9 +95,9 @@ print(p_violin)
 
 ##############Save Figures############################################################
 # # Specify the directory path where you want to save the figure
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_location/"
+
 # # Create the full file path
 file_path_1 <- file.path(save_directory, "FigS24.png")
 ggsave(file_path_1, p_violin, bg="white", width = 3.42, height = 3.42, units = "in", dpi = 600)

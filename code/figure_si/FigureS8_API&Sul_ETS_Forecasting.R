@@ -4,8 +4,8 @@ library(tidyr)
 library(dplyr)
 library(wesanderson)
 # Read the dataset
-df_his <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S8_CrudeQuality_Hist.csv")
-df_ets <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S8_CrudeQuality_ETS.csv")
+df_his <- read.csv("C:/Users/file_location/Figure S8_CrudeQuality_Hist.csv")
+df_ets <- read.csv("C:/Users/file_location/Figure S8_CrudeQuality_ETS.csv")
 
 
 # Reshape the data for easier plotting with ggplot2
@@ -71,8 +71,7 @@ p <- ggplot(df_combined, aes(x = Year, y = value, group = measure, color = measu
 
 p
 
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS8.png")
 

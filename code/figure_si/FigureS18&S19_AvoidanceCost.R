@@ -6,11 +6,9 @@ library(ggmacc)
 library(cowplot)
 library(RColorBrewer)
 
-df1 <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S18_MACC_HS.csv")
-df2 <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S19_MACC_LS.csv")
+df1 <- read.csv("C:/Users/file_location/SI/Figure S18_MACC_HS.csv")
+df2 <- read.csv("C:/Users/file_location/SI/Figure S19_MACC_LS.csv")
 
-# df1 <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S18_MACC_HS.csv")
-# df2 <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S19_MACC_LS.csv")
 
 colors <- brewer.pal(8, "BrBG")
 
@@ -216,9 +214,8 @@ combined_plot_2 <- plot_grid(
 
 ##############Save Figures############################################################
 # # Specify the directory path where you want to save the figure
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path_1 <- file.path(save_directory, "FigS18.png")
 ggsave(file_path_1, combined_plot_1, bg = "white", width = 7, height = 9, units = "in", dpi = 600)

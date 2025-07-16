@@ -21,12 +21,9 @@ library(vcd)
 library(stringr)
 library(wesanderson)
 
-# df_emissions <- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/RO_Expected Emissions.csv")
+df_emissions <- read.csv("C:/Users/file_location/Figure S22_RO_Expected Emissions.csv")
 
-df_emissions <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S22_RO_Expected Emissions.csv")
-
-# df_ets <- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/RO_EmissionsThreshold.csv")
-df_ets <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S22_RO_EmissionsThreshold.csv")
+df_ets <- read.csv("C:/Users/file_location/Figure S22_RO_EmissionsThreshold.csv")
 
 df_emissions <- df_emissions %>%
   left_join(df_ets, by = c("Year"))
@@ -107,8 +104,8 @@ p1 <- ggplot(df_emissions) +
 p1
 
 
-save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
+
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS22.png")
 

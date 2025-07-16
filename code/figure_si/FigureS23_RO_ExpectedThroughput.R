@@ -22,7 +22,7 @@ library(stringr)
 library(wesanderson)
 
 
-df_crude <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S23_RO_Expected Throughput.csv")
+df_crude <- read.csv("C:/Users/file_location/Figure S23_RO_Expected Throughput.csv")
 
 # Filtering columns
 df_crude_filtered <- df_crude %>%
@@ -131,8 +131,8 @@ p1 <- ggplot(df_crude_long, aes(x = Year, y = Expected, fill = Variable)) +
   )+
   guides(fill = guide_legend(nrow = 1))
 p1
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS23.png")
 

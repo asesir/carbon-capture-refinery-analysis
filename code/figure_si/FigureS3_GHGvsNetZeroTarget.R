@@ -69,7 +69,7 @@ plot_colors_config <- c(
 )
 
 
-df_emissions <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S3_GHGvsNetZeroTarget.csv")
+df_emissions <- read.csv("C:/Users/file_location/Figure S3_GHGvsNetZeroTarget.csv")
 
 df_emissions_long <- df_emissions %>%
   pivot_longer(-c(1:3),
@@ -122,7 +122,7 @@ p2 <- ggplot(df_emissions_long, aes(x = Year, y = Emissions, group = Capture.Sce
 p2
 
 
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
 
 file_path <- file.path(save_directory, "FigureS3.png")
 

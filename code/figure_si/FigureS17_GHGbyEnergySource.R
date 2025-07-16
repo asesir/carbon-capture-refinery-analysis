@@ -8,11 +8,8 @@ library(RColorBrewer)
 library(tidyr)
 
 # Your data
-df<- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S17_GHGbyEnergySource.csv")
+df<- read.csv("C:/Users/file_location/Figure S17_GHGbyEnergySource.csv")
 
-# df<- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/IndividualEmissionsStack.csv")
-
-# df$Scenario <- str_to_title(df$Scenario)
 
 # Pivot data to longer format
 df_long <- df %>%
@@ -67,8 +64,8 @@ p <- ggplot(df_long, aes(x=Year)) +
     legend.box = "vertical" 
   )
 print(p)
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS17.png")
 

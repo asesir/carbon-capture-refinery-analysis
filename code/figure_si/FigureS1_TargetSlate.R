@@ -8,9 +8,8 @@ library(RColorBrewer)
 library(cowplot)
 
 # read csv file
-# df <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S1_TargetSlate.csv")
-df <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S1_TargetSlate.csv")
-# df <- read.csv("D:/PhD/PhD Programe UofC/LCA/Paper 01/Data/TargetSlate.csv")
+
+df <- read.csv("C:/Users/file_location/Figure S1_TargetSlate.csv")
 
 
 df <- df %>%
@@ -82,8 +81,8 @@ p <- ggplot(df_long, aes(x = YEAR)) +
 
 p
 
-# save_directory <- "D:/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+
+save_directory <- "C:/Users/file_location/"
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS1.png")
 

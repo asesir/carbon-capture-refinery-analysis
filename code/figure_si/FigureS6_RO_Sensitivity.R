@@ -22,7 +22,7 @@ library(stringr)
 library(wesanderson)
 ####################Loading Data Frame#########################################
 
-df_decision_count<-read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S6_RO_decisioncount_Sensitivity.csv")
+df_decision_count<-read.csv("C:/Users/file_location/Figure S6_RO_decisioncount_Sensitivity.csv")
 
 prepare_data <- function(df_decision_count, main_var, level, other_vars) {
   if (level == "Ref") {
@@ -128,8 +128,8 @@ p1 <- ggplot(plot_data, aes(x = Year, y = Percentage, fill = RO_Options)) +
 print(p1)
 
 # # Specify the directory path where you want to save the figure
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
+
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS6.png")
 ggsave(file_path, p1, bg = "white", width = 7, height = 7, units = "in", dpi = 600)

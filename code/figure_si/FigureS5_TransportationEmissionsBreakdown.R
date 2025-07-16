@@ -11,8 +11,7 @@ library(ggrepel)
 library(RColorBrewer)
 library(viridis)
 # read csv file
-# df <- read.csv("C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/FigureS23_Emissions_Transportation.csv")
-df <- read.csv("C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/Data/File/Figure Plotting File/SI/Figure S5_TransportationEmissionsBreakdown.csv")
+df <- read.csv("C:/Users/file_location/Figure S5_TransportationEmissionsBreakdown.csv")
 
 # df <- df %>%
 #   mutate_at(vars(3:8), ~ . / 1000000)
@@ -125,8 +124,8 @@ p2 <- ggplot() +
 print(p2)
 
 # # Specify the directory path where you want to save the figure
-save_directory <- "C:/Users/Asesi/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
-# save_directory <- "C:/Users/fang.li/OneDrive/PhD/PhD Programe UofC/LCA/Paper 01/SI Figures/"
+save_directory <- "C:/Users/file_location/"
+
 # # Create the full file path
 file_path <- file.path(save_directory, "FigS5.png")
 
