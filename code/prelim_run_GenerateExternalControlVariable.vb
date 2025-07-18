@@ -34,7 +34,7 @@ Sub SwingCutOptimization()
  
  Set wb1 = Workbooks("external_parameters.xlsx")
  
- Set wb2 = Workbooks("PRELIM_v1.6 v9 CC_Economic.xlsm")
+ Set wb2 = Workbooks("SI_PRELIM_CC_Economic.xlsm")
  
  
  wb1.Sheets(Data_Matrix).Range("A1").Value = "Refinery Configuration"

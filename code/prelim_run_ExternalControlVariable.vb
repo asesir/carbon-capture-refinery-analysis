@@ -63,7 +63,7 @@ Sub DataCollection_ExternalControlParameters()
      Workbooks.Open ("C:\Users\file_location\prelimResult.xlsx")
      
     ' set workbook names
-     Set wb1 = Workbooks("PRELIM_v1.6 v9 CC_Economic.xlsm")
+     Set wb1 = Workbooks("SI_PRELIM_CC_Economic.xlsm")
      
      Set wb2 = Workbooks("prelimResult.xlsx")
      
